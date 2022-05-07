@@ -1,0 +1,26 @@
+{
+  "name": "solid-broccoli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoma77s/solid-broccoli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thoma77s/solid-broccoli/issues"
+  },
+  "homepage": "https://github.com/Thoma77s/solid-broccoli#readme",
+  "dependencies": {
+    "apollo": "^2.33.10",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  }
+}

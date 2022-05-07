@@ -1,5 +1,5 @@
 const { User, Book } = require('../models');
-const { AuthenicationError } = require('apollo=server-express');
+const { AuthenticationError } = require('apollo-server-express');
 const { signToken } = require('../utils/auth');
 
 const resolvers = {
